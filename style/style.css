@@ -407,5 +407,9 @@ background-size: cover;
     margin-left: 0px;
     
 }
+
+.last-section img{
+    width: 100%;
+}
     
 }
