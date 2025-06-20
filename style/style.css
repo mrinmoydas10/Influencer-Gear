@@ -153,6 +153,7 @@ border: none;
 border-radius: 20px;
 background-color: rgb(224, 44, 109);
 margin-top: 10px;
+cursor: pointer;
 
 }
 .header-info-container{
@@ -263,6 +264,7 @@ justify-self: center;
     color: rgba(224, 44, 109, 0.87);
 font-size: 0.rem;
 font-weight: 700;
+cursor: pointer;
 
 
 
